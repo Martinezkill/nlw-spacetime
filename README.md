@@ -27,7 +27,7 @@
 ##
 
 ## 🖥️ Running Locally
-1. Clone the repository:
+- Clone the repository:
    ```bash
    git clone https://github.com/yourusername/nlw-spacetime.git
    Open index.html in your browser.
@@ -37,7 +37,7 @@ To add your own memories:
 
 Replace images in /assets/
 
-Edit the HTML structure in index.html:
+## Edit the HTML structure in index.html:
 <a href="#" class="memory">
   <small>Date</small>
   <h1>Title</h1>
