@@ -18,8 +18,7 @@
 - ✅ Custom scrollbar styling
 - ✅ Gradient borders for profile image
 
-## 📂 Project Structure
-.
+## 📂 Project Structure  
 ├── assets/ # Static files (images, SVG)  
 ├── index.html # Main HTML file  
 ├── styles.css # Custom CSS styles  
