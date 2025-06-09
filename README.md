@@ -1,6 +1,4 @@
-# 🚀 NLW Spacetime - Time Capsule Web App
-
-##
+# 🚀 NLW Spacetime - Time Capsule Web App  
 
 ## 🛠️ Technologies
 - **Front-End**:  
