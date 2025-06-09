@@ -20,10 +20,10 @@
 
 ## 📂 Project Structure
 .
-├── assets/ # Static files (images, SVG)
-├── index.html # Main HTML file
-├── styles.css # Custom CSS styles
-└── README.md # Project documentation
+├── assets/ # Static files (images, SVG)  
+├── index.html # Main HTML file  
+├── styles.css # Custom CSS styles  
+└── README.md # Project documentation  
 ##
 
 ## 🖥️ Running Locally
